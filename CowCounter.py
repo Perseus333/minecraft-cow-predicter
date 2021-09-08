@@ -45,6 +45,7 @@ plt.plot(list_days, list_b, label="Babies")
 plt.title('Cow Counter')
 plt.xlabel('Days')
 plt.ylabel('Num of Cows')
+plt.legend()
 
 
 if __name__ == '__main__':
